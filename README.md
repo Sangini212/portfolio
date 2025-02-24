@@ -48,7 +48,7 @@
      <!-- Education Section -->
      <section id="education" class="container mt-5">
         <h2>Education</h2>
-        <p><strong>Bachelor of Technology</strong> - Mody University of Science and Technology (2028)</p>
+        <p><strong>Bachelor of Technology</strong> - Mody University of Science and Technology (2024-2028)</p>
         <p>Relevant coursework: Machine Learning, Deep Learning, Data Structures, Algorithms, Computer Vision, and NLP.</p>
     </section>
     <!-- Projects Section -->
