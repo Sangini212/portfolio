@@ -71,6 +71,5 @@
             <a href="https://github.com/Sangini212" class="text-light">GitHub</a>
         </p>
     </footer>
-    
 </body>
 </html>
